@@ -1,0 +1,30 @@
+[33mcommit 613cbcca6c6052e083885c1c8d724cfb55ed4012[m
+Merge: 432da6f c2d0456
+Author: ljb <ljb8664@126.com>
+Date:   Mon Oct 13 10:58:58 2014 +0800
+
+    conflict fixed
+
+[33mcommit 432da6fcdd589b77274387f46f0d5d1ae4eb0fad[m
+Author: ljb <ljb8664@126.com>
+Date:   Mon Oct 13 10:53:31 2014 +0800
+
+    & simple.
+
+[33mcommit c2d0456ae92f8367d004a9119803ba2ccc9572ff[m
+Author: ljb <ljb8664@126.com>
+Date:   Mon Oct 13 10:51:48 2014 +0800
+
+    midify add and simple.
+
+[33mcommit 00e9ea73eb24bc21dbab61b14e184925f773ff70[m
+Author: ljb <ljb8664@126.com>
+Date:   Mon Oct 13 08:52:48 2014 +0800
+
+    branch test
+
+[33mcommit bbe0b742e994e6337c1e33860c0f3e6994ad248f[m
+Author: ljb8664 <ljb8664@126.com>
+Date:   Mon Oct 13 08:38:20 2014 +0800
+
+    Initial commit
